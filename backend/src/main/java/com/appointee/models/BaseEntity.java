@@ -45,7 +45,6 @@ public abstract class BaseEntity<PK extends Serializable> {
 
     @CreatedBy
     @Column(updatable = false)
-    @NotNull
     private Long createdBy;
 
     @LastModifiedBy
