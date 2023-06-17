@@ -1,2 +1,2 @@
 # Appointee
-Manages doctor's appointment
+Manages professionals's appointment
